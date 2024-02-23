@@ -1,4 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" align="right" />
 <h1 align="center">Hi 👋, I'm Achraf MABSOUT</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabsoutachraf&label=Profile%20views&color=0e75b6&style=flat" alt="mabsoutachraf" /> </p>
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **mabsoutachraf1999@gmail.com**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" align="right" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
