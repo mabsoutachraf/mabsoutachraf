@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achraf MABSOUT</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mabsoutachraf&label=Profile%20views&color=0e75b6&style=flat" alt="mabsoutachraf" /> </p>
+## introduction
+my name is achraf mabsout, i really enjoy learning languages and frameworks like React, Laravel, VusJs, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 - 🌱 I’m currently learning **REACT NATIVE, JAVA**
 
