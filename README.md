@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Achraf MABSOUT</h1>
-## introduction
-my name is achraf mabsout, i really enjoy learning languages and frameworks like React, Laravel, VusJs, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+<h3 align="left">Introduction:</h3>
+<p align="left" >
+  my name is achraf mabsout, i really enjoy learning languages and frameworks like React, Laravel, VusJs, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+</p>
 
 - 🌱 I’m currently learning **REACT NATIVE, JAVA**
 
