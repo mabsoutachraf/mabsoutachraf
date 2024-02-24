@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mabsoutachraf/mabsoutachraf/blob/main/channels4_banner.jpg)]
+![MasterHead](https://github.com/mabsoutachraf/mabsoutachraf/blob/main/channels4_banner.jpg)
 <h1 align="center">Hi 👋, I'm Achraf MABSOUT</h1>
 <h3 align="left">Introduction:</h3>
 <p align="left" >
