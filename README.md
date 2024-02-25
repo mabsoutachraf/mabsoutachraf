@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **REACT NATIVE, JAVA**
 
-- 💬 Ask me about **JAVASCRIPT, REACTJS, PHP, LARAVEL, PYTHON**
+- 💬 Ask me about **JAVASCRIPT, REACTJS, VUEJS ,PHP, LARAVEL, PYTHON**
 
 - 📫 How to reach me **mabsoutachraf1999@gmail.com**
 
